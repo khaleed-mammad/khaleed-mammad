@@ -21,7 +21,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" height="30" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="30" alt="excel logo"  />
 </div>
+
 
 ###
 
